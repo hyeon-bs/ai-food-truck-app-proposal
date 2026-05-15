@@ -25,7 +25,7 @@
 ## 📱 프로젝트 목업 (Mockup)
 
 ### UI/UX Prototype 설계
-<img src="docs/static/인공지능.png"/>
+<img src="docs/static/인공지능.png"/>
 
 ## 🔄 프로젝트 한계점 및 수정 사항
 

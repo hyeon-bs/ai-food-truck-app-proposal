@@ -1,0 +1,19 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+credentials.json
+secrets.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
